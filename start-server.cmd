@@ -1,0 +1,1 @@
+start run.cmd +exec server.cfg
